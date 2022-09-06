@@ -1,2 +1,4 @@
 # thisIsTheWay
-my first repository on the GitHub
+My first repository on the GitHub
+
+Learning how to code on C
